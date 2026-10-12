@@ -1,0 +1,3 @@
+Learning interactive rebase
+Learning commit history cleanup
+Learning squash
